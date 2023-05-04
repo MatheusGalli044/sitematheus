@@ -41,3 +41,22 @@
 body {
     font-family: 'Oswald', sans-serif;
 }
+
+.escola-titulo {
+    padding: 30px 0;
+}
+
+.estudante-icon{
+
+    width: 24px;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns:  20% 20% 20% 20%;
+    justify-content: center;
+}
+
+.estudante{
+    text-align: center;
+}
